@@ -18,6 +18,7 @@
 ## Estudando
 * Processamento de Linguagem Natural (PLN)
 * Deep Learning 
+* Ciência da computação
 
 ![HedvaldoCosta Status](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&show_icons=true&theme=algolia)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HedvaldoCosta&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
