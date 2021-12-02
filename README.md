@@ -4,21 +4,4 @@
 <a href="https://www.instagram.com/hedvaldo_costa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## Áreas de interesse
-* Ciência de Dados
-* Inteligência Artificial  
-* Inteligência de Negócios
-
-## Ferramentas
-* Python 
-* Power BI
-* R
-* Octave
-
-## Estudando
-* Processamento de Linguagem Natural (PLN)
-* Deep Learning 
-* Ciência da computação
-
-![HedvaldoCosta Status](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&show_icons=true&theme=algolia)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=HedvaldoCosta&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  ![HedvaldoCosta Status](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&show_icons=true&theme=algolia)
