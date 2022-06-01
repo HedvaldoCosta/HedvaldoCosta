@@ -48,7 +48,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/67663958/171513361-5bf84964-5da4-4650-8c03-2356b47d7922.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
 <strong>Chamo-me Hedvaldo Costa, cursando ciência da computação pela UNIT-AL,</strong>
@@ -57,5 +57,14 @@
 <strong>e tenho como objetivo combinar metodologia científica e criatividade para</strong> 
 </p>  
 <p align="left">
-<strong>desenvolver soluções de problemas reais a partir da aplicação de técnicas computacionais, inteligência artificial e análise.</strong>
+<strong>desenvolver soluções de problemas reais a partir da aplicação de</strong>
+</p>
+<p align="left">
+<strong>técnicas computacionais, inteligência artificial e análise.</strong>
+</p>
+<p align="left">
+<strong>Busco se tornar um cientista de dados (o famoso unicórnio), ensinar e</strong>
+</p>
+<p align="left">
+<strong>fomentar a importância dessa área.</strong>
 </p>
