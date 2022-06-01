@@ -63,8 +63,8 @@
 <strong>técnicas computacionais, inteligência artificial e análise.</strong>
 </p>
 <p align="left">
-<strong>Busco se tornar um cientista de dados (o famoso unicórnio), ensinar e</strong>
+<strong>Busco se tornar um cientista de dados (o famoso unicórnio),</strong>
 </p>
 <p align="left">
-<strong>fomentar a importância dessa área.</strong>
+<strong>ensinar e fomentar a importância dessa área.</strong>
 </p>
