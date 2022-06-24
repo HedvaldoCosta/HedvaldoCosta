@@ -39,7 +39,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
    </a>
   <a href="https://powerbi.microsoft.com/pt-br/">
-      <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg" alt="powerBI" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerBI" width="40" height="40"/>
    </a>
 </p>
 
