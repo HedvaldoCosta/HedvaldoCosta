@@ -54,7 +54,7 @@
 <strong>Chamo-me Hedvaldo Costa, cursando ciência da computação pela UNIT-AL,</strong>
 </p>
 <p align="left">
-<strong>e tenho como objetivo combinar metodologia científica e criatividade para</strong> 
+<strong>tenho como objetivo combinar metodologia científica e criatividade para</strong> 
 </p>  
 <p align="left">
 <strong>desenvolver soluções de problemas reais a partir da aplicação de</strong>
@@ -63,7 +63,7 @@
 <strong>técnicas computacionais, inteligência artificial e análise.</strong>
 </p>
 <p align="left">
-<strong>Busco se tornar um cientista de dados (o famoso unicórnio),</strong>
+<strong>Estou estudando para me tornar um cientista de dados,</strong>
 </p>
 <p align="left">
 <strong>ensinar e fomentar a importância dessa área.</strong>
