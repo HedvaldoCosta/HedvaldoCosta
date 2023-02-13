@@ -49,20 +49,5 @@
 <img src="https://user-images.githubusercontent.com/67663958/171513361-5bf84964-5da4-4650-8c03-2356b47d7922.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-<strong>Chamo-me Hedvaldo Costa, cursando ciência da computação pela UNIT-AL,</strong>
-</p>
-<p align="left">
-<strong>tenho como objetivo combinar metodologia científica e criatividade para</strong> 
-</p>  
-<p align="left">
-<strong>desenvolver soluções de problemas reais a partir da aplicação de</strong>
-</p>
-<p align="left">
-<strong>técnicas computacionais, inteligência artificial e análise.</strong>
-</p>
-<p align="left">
-<strong>Estou estudando para me tornar um cientista de dados,</strong>
-</p>
-<p align="left">
-<strong>ensinar e fomentar a importância dessa área.</strong>
-</p>
+<strong>Chamo-me Hedvaldo Costa, cientista da computação em busca de adentrar na área de dados. Tenho como objetivo juntar metodologia científica, criatividade e curiosidade para construir soluções de problemas tanto voltados para o mercado quanto para o cotidiano e demonstrar como a tecnologia pode facilitar sua vida em qualquer âmbito por meio da automação.</strong>
+
