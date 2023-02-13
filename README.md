@@ -41,9 +41,6 @@
    </a>
 </p>
 
-![HedvaldoCosta Status](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&show_icons=true&theme=algolia)
-[![HedvaldoCosta](https://github-readme-stats.vercel.app/api/top-langs/?username=HedvaldoCosta&hide=html&layout=compact=true&theme=algolia)](https://github.com/iuricode/)
-
 ---
 
 <img src="https://user-images.githubusercontent.com/67663958/171513361-5bf84964-5da4-4650-8c03-2356b47d7922.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -51,3 +48,4 @@
 <p align="left"> 
 <strong>Chamo-me Hedvaldo Costa, cientista da computação em busca de adentrar na área de dados. Tenho como objetivo juntar metodologia científica, criatividade e curiosidade para construir soluções de problemas tanto voltados para o mercado quanto para o cotidiano e demonstrar como a tecnologia pode facilitar sua vida em qualquer âmbito por meio da automação.</strong>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&theme=radical&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
