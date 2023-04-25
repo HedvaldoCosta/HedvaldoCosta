@@ -48,4 +48,4 @@
 <p align="left"> 
 <strong>Chamo-me Hedvaldo Costa, cientista da computação em busca de adentrar na área de dados. Tenho como objetivo juntar metodologia científica, criatividade e curiosidade para construir soluções de problemas tanto voltados para o mercado quanto para o cotidiano e demonstrar como a tecnologia pode facilitar sua vida em qualquer âmbito por meio da automação.</strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&theme=radical&include_all_commits=true&show_icons=true&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&theme=radical&include_all_commits=true&show_icons=true&hide=prs,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
