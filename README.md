@@ -1,3 +1,9 @@
+# Seja bem-vindo ao meu perfil 🐼
+
+
+
+
+
 <p align="center">
   <a href="https://instagram.com/hedvaldo_costa/">
     <img
@@ -48,4 +54,4 @@
 <p align="left"> 
 <strong>Chamo-me Hedvaldo Costa, cientista da computação em busca de adentrar na área de dados. Tenho como objetivo juntar metodologia científica, criatividade e curiosidade para construir soluções de problemas tanto voltados para o mercado quanto para o cotidiano e demonstrar como a tecnologia pode facilitar a sua vida.</strong>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HedvaldoCosta&theme=radical&include_all_commits=true&show_icons=true&hide=prs,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HedvaldoCosta&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HedvaldoCosta&hide=Html&theme=nord_dark)
