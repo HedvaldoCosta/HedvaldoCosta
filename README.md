@@ -1,4 +1,4 @@
-# Seja bem-vindo ao meu perfil 🐼
+<h1 align="center">🐼 WELCOME TO MY PROFILE 🐼</h1>
 
 
 <p align="center">
@@ -45,6 +45,12 @@
   <a href="https://powerbi.microsoft.com/pt-br/">
       <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerBI" width="40" height="40"/>
    </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://www.kaggle.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
+  </a>
 </p>
 
 ---
