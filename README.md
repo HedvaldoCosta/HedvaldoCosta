@@ -2,21 +2,15 @@
 
 
 <p align="center">
-  <a href="https://instagram.com/hedvaldo_costa/">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
-    />
-  </a>
   <a href="https://www.linkedin.com/in/hedvaldo-costa-77b012205/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="mailto:hedvaldocostaV.O@hotmail.com">
+  <a href="mailto:hedvaldocosta.t@gmail.com">
     <img
          align="center"
-         src="https://img.shields.io/badge/Outlook-1C1C1C?style=for-the-badge&logo=Gmail&logoColor=00FFFF"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FFFF"
   </a>
 </p>
     
