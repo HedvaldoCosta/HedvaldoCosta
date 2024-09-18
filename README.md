@@ -1,4 +1,4 @@
-<h1 align="center">🐼 WELCOME TO MY PROFILE 🐼</h1>
+<h1 align="center">WELCOME TO MY PROFILE</h1>
 
 
 <p align="center">
@@ -7,7 +7,7 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="mailto:hedvaldocosta.t@gmail.com">
+  <a href="mailto:hedvaldocosta.p@gmail.com">
     <img
          align="center"
          src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=00FFFF"
@@ -15,37 +15,43 @@
 </p>
     
 ---
-| I've been interested in technology since the first time I touched a computer. As time went by, I went deeper and deeper and ended up getting into a bachelor's degree in Computer Science (2020.1 - 2024.1). Today, I entered the world of Data Science and I seek to develop myself more and more in this area, aiming to combine scientific methodology, creativity and curiosity to build solutions to problems both for the market and for everyday life and to demonstrate how technology can make your life easier. | <img src="https://user-images.githubusercontent.com/67663958/171513361-5bf84964-5da4-4650-8c03-2356b47d7922.png" min-width="300px" max-width="1700px" width="1700px" align="right" alt="Computador iuriCode"> |
-| :-: | :-: |
-    
----
-<p align="center">
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
-  <a href="https://www.python.org">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   </a>
-  <a href="https://www.anaconda.com">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/>
-   </a>
-  <a href="https://jupyter.org">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter-notebook" width="40" height="40"/>
-   </a>
 
-  <a href="https://powerbi.microsoft.com/pt-br/">
-      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerBI" width="40" height="40"/>
-   </a>
-  <a href="https://www.sqlite.org/index.html">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://www.kaggle.com/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/>
-  </a>
-</p>
+ <h2>Hedvaldo Costa - Data Analyst & BI Enthusiast</h2>
+
+<p>👋 Hello! I am Hedvaldo Costa, a junior Data Analyst focused on Data Science, Business Intelligence, and Data Visualization. My goal is to turn data into actionable insights using tools like Python, SQL, Power BI, and other data analysis technologies. I am always learning and seeking new ways to solve problems through data.</p>
+
+<h3>🛠️ Skills and Tools</h3>
+<ul>
+  <li><strong>Languages</strong>: Python (MTCNN, OpenCV, Pandas, Selenium), SQL</li>
+  <li><strong>BI & Visualization</strong>: Power BI, creating interactive dashboards</li>
+  <li><strong>Databases</strong>: Oracle APEX, SQLite</li>
+  <li><strong>Data Analysis</strong>: Data processing, visualization, and extracting insights</li>
+  <li><strong>Personal Projects</strong>: Automation, data mining, and machine learning</li>
+</ul>
+
+<h3>🌱 What I Am Learning</h3>
+<ul>
+  <li><strong>Data Science</strong>: I am currently taking a specialization course on an international platform to deepen my knowledge in data analysis and machine learning.</li>
+  <li><strong>SQL</strong>: I am improving my SQL skills to make my data analyses more efficient.</li>
+  <li><strong>Databases</strong>: Exploring Oracle APEX for developing data-oriented applications.</li>
+</ul>
+
+<h3>📌 Featured Projects</h3>
+<ul>
+  <li><strong><a href="#">Face Detection with Deep Learning</a></strong>: Developed a Python application that uses deep learning (MTCNN) and OpenCV for face detection in images and videos.</li>
+  <li><strong><a href="#">Profile Data Miner</a></strong>: Currently under development, this project uses Python to extract data from different social networks on profiles that fit certain job vacancies.</li>
+  <li><strong><a href="#">Power BI Dashboards</a></strong>: Working on creating interactive dashboards, providing actionable insights through clear and informative visualizations.</li>
+  <li><strong><a href="#">Data analysis and probabilistic model for the real estate sector</a></strong>: I developed an application using Streamlit to facilitate decision-making around the purchase and sale of properties in Seattle, in addition to using the probabilistic model to predict how much the purchased house could be sold for.</li>
+  <li><strong><a href="#">Transformers model for text translation</a></strong>: Using the Transformers model, I developed a program that translates texts from English to Portuguese with an accuracy of 80%</li>
+</ul>
+
+<h3>🎓 Education</h3>
+<p>Bachelor's in Computer Science - Centro Universitário de Maceió (UNIMA), 2024</p>
+<p>Postgraduate in Data Science and Big Data - Pontifícia Universidade Católica de Minas Gerais (PUCMG), ongoing</p>
+
+<h3>💡 About Me</h3>
+<p>I am a technology enthusiast, always looking for innovative and efficient solutions. I like to put what I learn into practice, and my portfolio reflects this ongoing journey of learning and improvement in data science and BI. My current focus is to find opportunities as a Data Analyst or Data Scientist, especially in remote positions.</p>
+
 
 ---
     
