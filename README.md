@@ -22,18 +22,11 @@
 
 <h3>🛠️ Skills and Tools</h3>
 <ul>
-  <li><strong>Languages</strong>: Python (MTCNN, OpenCV, Pandas, Selenium), SQL</li>
-  <li><strong>BI & Visualization</strong>: Power BI, creating interactive dashboards</li>
-  <li><strong>Databases</strong>: Oracle APEX, SQLite</li>
+  <li><strong>Languages</strong>: Python, SQL, R</li>
+  <li><strong>BI & Visualization</strong>: Power BI, Tableau</li>
+  <li><strong>Databases</strong>: Oracle APEX, SQLite, PostgreSQL</li>
   <li><strong>Data Analysis</strong>: Data processing, visualization, and extracting insights</li>
   <li><strong>Personal Projects</strong>: Automation, data mining, and machine learning</li>
-</ul>
-
-<h3>🌱 What I Am Learning</h3>
-<ul>
-  <li><strong>Data Science</strong>: I am currently taking a specialization course on an international platform to deepen my knowledge in data analysis and machine learning.</li>
-  <li><strong>SQL</strong>: I am improving my SQL skills to make my data analyses more efficient.</li>
-  <li><strong>Databases</strong>: Exploring Oracle APEX for developing data-oriented applications.</li>
 </ul>
 
 <h3>📌 Featured Projects</h3>
