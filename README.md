@@ -15,12 +15,19 @@
     
 ---
 
+## Data Science | Machine Learning | Data Analysis
+
 <p align="left">
-I am an Artificial Intelligence Engineer with a degree in Computer Science from the Tiradentes University Center (UNIT) and specialized in Data Science from the Pontifical Catholic University of Minas Gerais (PUC-MG). 
+I’m an Artificial Intelligence Engineer with a BSc in Computer Science (UNIT) and a specialization in Data Science (PUC-MG). I started my journey as a BI and data analyst, applying data-driven insights to multiple domains — from climate research to predictive maintenance.
 </p>
 
 <p align="left">
-I started my career in data as a BI analyst and general data analyst, moving from analytics to climate change aid to machine maintenance analysis. In 2024, after finishing my Bachelor in Computer Science, I started the project to develop an AI specialized in supporting clinical oncology analysis, capable of interpreting medical records and suggesting therapeutic conducts based on patterns learned from synthetic and real data, using Natural Language Processing and T5 models. I am now working on creating an intelligent system embedded in IoT devices for livestock monitoring, capable of identifying subtle changes in behavior and physical symptoms, anticipating possible diseases and allowing early intervention in management.
+In 2024, I transitioned to AI R&D, developing clinical oncology support systems using T5 models and NLP for medical text interpretation. I’m currently designing intelligent IoT-based livestock monitoring systems that detect behavioral and physiological anomalies for early disease prevention.
+</p>
+
+<div align="center">
+<p align="left">
+My focus is building practical AI systems that bridge the gap between data science and real-world decision-making.
 </p>
 
 <h3>🛠️ Skills</h3>
@@ -53,21 +60,11 @@ I started my career in data as a BI analyst and general data analyst, moving fro
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="36" height="36" alt="Anaconda" />
 </a>
 </p>
+</div>
 
 
 
 
-<h3>📌 Featured Projects</h3>
-<ul>
-  <li><strong><a href="https://github.com/HedvaldoCosta/face_detection_with_deeplearning">Face Detection with Deep Learning</a></strong>: Developed a Python application that uses deep learning (MTCNN) and OpenCV for face detection in images and videos.</li>
-
-  <li><strong><a href="https://github.com/HedvaldoCosta/ProfileSearch">Profile Data Miner</a></strong>: Currently under development, this project uses Python to extract data from different social networks on profiles that fit certain job vacancies.</li>
-  <li><strong><a href="https://github.com/HedvaldoCosta/powerbi-analytics">Power BI Dashboards</a></strong>: Working on creating interactive dashboards, providing actionable insights through clear and informative visualizations.</li>
-  <li><strong><a href="https://github.com/HedvaldoCosta/RealEstateDataAnalysis">Data analysis and probabilistic model for the real estate sector</a></strong>: I developed an application using Streamlit to facilitate decision-making around the purchase and sale of properties in Seattle, in addition to using the probabilistic model to predict how much the purchased house could be sold for.</li>
-  <li><strong><a href="https://github.com/HedvaldoCosta/TranslatorEN-PT">Transformers model for text translation</a></strong>: Using the Transformers model, I developed a program that translates texts from English to Portuguese with an accuracy of 80%</li>
-</ul>
-
----
     
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HedvaldoCosta&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HedvaldoCosta&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HedvaldoCosta&theme=nord_dark) |
 | :-: | :-: | :-: |
